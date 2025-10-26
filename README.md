@@ -1,6 +1,6 @@
 # DataBloom AI
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/DataBloom-20251026-030817)
 
 DataBloom AI is a sophisticated platform designed to empower users to seamlessly ingest, process, and interact with their data using advanced AI capabilities. It focuses on a visually stunning and intuitive user experience, making complex RAG (Retrieval Augmented Generation) workflows accessible. The application features a secure authentication system for user management. Users can upload multiple files or define data pipelines to Google Drive, which then triggers N8N workflows for RAG model building. A central, intelligent chatbot interface allows users to converse with the processed data, leveraging chat history and memory for personalized interactions. The UI is meticulously crafted with an illustrative, human-centered design, ensuring responsiveness across web and mobile devices, and prioritizing visual appeal and delightful micro-interactions.
 
@@ -112,7 +112,7 @@ DataBloom AI is designed for seamless deployment to Cloudflare Workers.
 
     Wrangler will build your Worker and deploy it to your Cloudflare account.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/DataBloom-20251026-030817)
 
 ## ⚠️ Important Note on AI Usage
 
